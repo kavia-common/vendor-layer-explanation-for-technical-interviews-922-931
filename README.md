@@ -1,0 +1,1 @@
+# vendor-layer-explanation-for-technical-interviews-922-931
